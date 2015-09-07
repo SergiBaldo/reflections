@@ -1,0 +1,5 @@
+What happens when you initialize a repository? Why do you need to do it?
+	A new .git folder is created. We need do this for create a tracking on the files of the project and then upload it to the cload.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+	Is a "place" between the repository and work. dir. offers more control and "prepare" the file(s) to be committed
